@@ -4,7 +4,7 @@
         </p>
         <p align="left"> -->
         <h4>
-                Hi there 👋,
+                Hi there 👋🏻,
         </h4>
         <p>
                 I'm a bioinformatician working in the field of microbial genomics. Specifically, my research focuses 
