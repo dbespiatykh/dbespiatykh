@@ -1,6 +1,6 @@
 <div>
-        <p align="right">
-        <img src=./img/IMG_2744.PNG width=200px style="float:right; padding-right: 5px; padding-left: 5px; padding-top: 0px;">
+        <p>
+        <img align="right" src=./img/IMG_2744.PNG width=200px style="float:right; padding-right: 5px; padding-left: 5px; padding-top: 0px;">
         </p>
         <p align="left">
         <span style='font-weight:bold'>Hi, I'm Dmitry Bespiatykh</span><br>
