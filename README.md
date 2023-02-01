@@ -1,8 +1,8 @@
 <div>
-        <p>
+<!--         <p>
         <img align="right" src=./img/IMG_2744.PNG width=200px style="float:right; padding-right: 5px; padding-left: 5px; padding-top: 0px;">
         </p>
-        <p align="left">
+        <p align="left"> -->
         <span style='font-weight:bold'>Hi, I'm Dmitry Bespiatykh</span><br>
         <br>
         I'm a bioinformatician working in the field of microbial genomics. Specifically, my research focuses on challenges in genomics, phylogenomics, and transcriptomics of infectious organisms such as <em>Mycobacterium tuberculosis</em>, <em>Staphylococcus aureus</em>, and <em>Klebsiella pneumoniae</em>.
